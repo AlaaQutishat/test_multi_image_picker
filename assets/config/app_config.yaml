@@ -1,0 +1,2 @@
+debug_api_url: "https://aboutcare.net/APIs/upload_report.php"
+release_api_url: "https://aboutcare.net/APIs/upload_report.php"
